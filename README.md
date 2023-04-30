@@ -24,7 +24,3 @@ I am a frontend web developer with 6 months of experience, specialized in HTML, 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=adanj27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
