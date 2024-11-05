@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Bolivia</h3>
 
 # 💫 About Me:
-I am a frontend web developer with 1 year of experience, specialized in HTML, CSS, JavaScript, React, Nextjs and Tailwind. During this time, I have participated in two group projects that have given me a great understanding of teamwork, project workflow, and software development processes. Additionally, in one of these projects, I had the opportunity to learn and use TypeScript, which helped me work effectively with my team members. I have also used Git for version control in my projects. In search of new opportunities to continue growing as a professional, I am interested in learning new technologies and applying my skills to contribute to challenging and positively impactful projects.
+I am a frontend web developer with +2 year of experience, specialized in HTML, CSS, JavaScript, React, Nextjs and Tailwind. During this time, I have participated in two group projects that have given me a great understanding of teamwork, project workflow, and software development processes. Additionally, in one of these projects, I had the opportunity to learn and use TypeScript, which helped me work effectively with my team members. I have also used Git for version control in my projects. In search of new opportunities to continue growing as a professional, I am interested in learning new technologies and applying my skills to contribute to challenging and positively impactful projects.
 
 
 ## 🌐 Socials:
